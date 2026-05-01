@@ -252,20 +252,12 @@ flutter-bus-ticket-booking-app/
 
 ## 11. Future Enhancements / Roadmap
 
-| Priority | Enhancement | Description |
-|---|---|---|
-| 🔴 High | **Date Picker Integration** | Replace hardcoded dates with `showDatePicker` and proper state |
-| 🔴 High | **Form Validation** | Validate empty city fields and date logic before search |
-| 🔴 High | **Seat Selection State** | Track selected seats, enforce limits, compute dynamic pricing |
-| 🟡 Medium | **Live Trip Data** | Connect to a REST/GraphQL API for real trip search results |
-| 🟡 Medium | **Tickets Screen** | Display booked tickets with QR code or barcode generation |
-| 🟡 Medium | **User Profile & Auth** | Firebase Auth or OAuth2 integration with profile management |
-| 🟡 Medium | **Promo Code Logic** | Backend-validated promo code with discount reflection in fare |
-| 🟢 Low | **Payment Gateway** | Integrate Stripe / Razorpay / platform pay for real transactions |
-| 🟢 Low | **Push Notifications** | Booking confirmations and departure reminders via FCM |
-| 🟢 Low | **Accessibility** | Semantic labels, screen reader support, contrast compliance |
-| 🟢 Low | **Unit & Widget Tests** | Full test coverage for navigation flows and Riverpod providers |
-| 🟢 Low | **Localization (i18n)** | Multi-language support via Flutter's `intl` package |
+
+**Payment Gateway** | Integrate Stripe / Razorpay / platform pay for real transactions |
+**Push Notifications** | Booking confirmations and departure reminders via FCM |
+**Accessibility** | Semantic labels, screen reader support, contrast compliance |
+**Unit & Widget Tests** | Full test coverage for navigation flows and Riverpod providers |
+**Localization (i18n)** | Multi-language support via Flutter's `intl` package |
 
 ---
 
